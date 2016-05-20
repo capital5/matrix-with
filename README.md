@@ -1,5 +1,5 @@
 # matrix-with [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> Generates a array matrix with the specified number of rows and columns with an optional initializer
+> Creates an m-by-n matrix in which all entries are set to the specified element
 
 ## Installation
 
@@ -12,7 +12,7 @@ $ npm install --save matrix-with
 ```js
 var matrixWith = require('matrix-with');
 
-matrixWith('Rainbow');
+matrixWith(3, 3, 0);
 ```
 ## License
 
