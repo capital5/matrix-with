@@ -43,5 +43,6 @@
     "prepublish": "gulp prepublish",
     "test": "gulp"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "tonicExampleFilename": "tonic.js"
 }
