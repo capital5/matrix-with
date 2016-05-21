@@ -1,6 +1,6 @@
 {
   "name": "matrix-with",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Creates an m-by-n matrix in which all entries are set to the specified element",
   "homepage": "",
   "author": {
